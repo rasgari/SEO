@@ -1,4 +1,4 @@
-<img align="center" alt="security" width = "1000"  src="https://cdn-ilaholn.nitrocdn.com/hfdCQbxqaePitAvGijoJPHRIRIeRiclk/assets/images/optimized/rev-7cd90a4/www.zuplic.com/wp-content/uploads/2024/07/SEO-gif-makccer-2-300x300.gif" >
+<img align="center" alt="SEO" width = "1000"  src="https://iconscout.com/lottie-animation/seo-engine-4212029" >
 
 
 # SEO
