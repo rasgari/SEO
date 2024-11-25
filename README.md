@@ -1,4 +1,4 @@
-<img align="center" alt="SEO" width = "1000"  src="https://iconscout.com/lottie-animation/seo-engine-4212029" >
+<img align="center" alt="SEO" width = "1000"  src="https://dukami.com/wp-content/uploads/2023/02/SEO-gif-makccer-2.gif" >
 
 
 # SEO
