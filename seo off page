@@ -1,9 +1,9 @@
 # SEO off page:
 
-# backlink:
+## backlink:
 
 
--blog:
+# -blog:
 
 https://virgool.io
 https://persianblog.ir
@@ -64,7 +64,7 @@ mah-laugh.ir
 
 
 
-- advertisement: 
+# - advertisement: 
 
 https://pitkat.ir
 https://divar.ir
@@ -117,7 +117,7 @@ http://shetabe.ir
 https://www.namakala.com
 
 
-- site:
+# - site:
 
 linkedin.com
 about.me
@@ -286,7 +286,7 @@ symantec.com
 ask.fm
 
 
-- forum:
+# - forum:
 
 http://www.forum.mahtaa.com
 http://www.webhostingtalk.ir
