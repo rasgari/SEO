@@ -1,6 +1,6 @@
-SEO off page:
+# SEO off page:
 
-backlink:
+# backlink:
 
 
 -blog:
