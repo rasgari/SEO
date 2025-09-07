@@ -119,3 +119,12 @@ https://chromewebstore.google.com/detail/scout-seo-extension/hdmgcjfijdianinekpa
 - Keyword Planner
 - Keywordshitter
 
+=====================================
+
+این هم یه جایگزین دیگه برای گوگل آنالیتیکس، ظاهرش سادس و فعال سازی و ثبت نامش هم سادس یه ایمیل می‌خواد و یه اسکریپت بهتون می‌‌ده توی سایتتون می‌زارین، اوپن سورس هم هست
+
+تست آنلاین :
+eu.umami.is/share/LGazGOecbDtaIwDr/umami.is
+
+
+====================================
